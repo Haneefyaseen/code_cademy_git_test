@@ -150,3 +150,5 @@ def damage_scale():
     if j > 50000000000:
       d_scale[5].append(i)
   return d_scale
+
+print('Wow what a piece of code')
